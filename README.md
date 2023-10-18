@@ -1,3 +1,7 @@
+[![VisitButton]](https://jeremybankes.com)
+
+[VisitButton]: https://img.shields.io/badge/Visit_My_Website-00aec3?style=for-the-badge
+
 ## Introduction
 Hello! I'm Jeremy. I'm a __Computer Programmer__ at [NovaXpress](https://novaxpress.ca).
 
