@@ -1,6 +1,8 @@
 [![VisitButton]](https://jeremybankes.com)
+[![DownloadResumeButton]](https://docs.google.com/document/u/0/export?format=pdf&id=1JBYZxC0yiTBwnWB_1CeFolXEglyapa8enTqIJTnycFw)
 
 [VisitButton]: https://img.shields.io/badge/Visit_My_Website-99c9a5?style=for-the-badge
+[DownloadResumeButton]: https://img.shields.io/badge/Download_My_Resume-99c9a5?style=for-the-badge
 
 ## Introduction
 Hello! I'm Jeremy. I'm a __Computer Programmer__ at [NovaXpress](https://novaxpress.ca).
