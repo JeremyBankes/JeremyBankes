@@ -19,8 +19,8 @@ I had a lot of fun with Java and AWT, but hit the limitations of software render
 Eventually I started working as a web developer for a delivery company (Throughout my journey with Java and C++ I also dabbled in some web development with a multitude of pretty dull projects, [Geoline](https://github.com/JeremyBankes/geoline) being the only one I really polished. They ended up getting me this job). I worked for about 2 years and moved out to a rural town in Nova Scotia, where I now spend a lot of time hiking, cycling and working in my wood shop! 
 
 ## Contact
-|Email Address: [mail@jeremybankes.com](mailto:mail@jeremybankes.com)|Phone Number: [+1 (782) 774-7100](tel:17827747100)|
-|-|-|
+|Email Address: [mail@jeremybankes.com](mailto:mail@jeremybankes.com)|
+|-|
 
 ## Social Media
 |Facebook: [jeremyabankes](https://www.facebook.com/jeremyabankes/)|Discord: [jeremybankes](https://discord.com/login)|
