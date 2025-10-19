@@ -5,7 +5,7 @@
 [DownloadResumeButton]: https://img.shields.io/badge/Download_My_Resume-1a1a1a?style=for-the-badge
 
 ## Introduction
-Hello! I'm Jeremy. I'm a __Computer Programmer__ at [CarteNav](https://cartenav.com).
+Hello! I'm Jeremy. I'm a __Support Developer__ at [CarteNav](https://cartenav.com).
 
 I enjoy writting code for all sorts of projects from system drivers to browser extensions! You should check out some of the projects I'm most proud of pinned below!
 
