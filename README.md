@@ -7,5 +7,5 @@ Hello! I'm Jeremy. I'm a __Senior Software Developer__ at [Ultra Maritime](https
 
 I build software across the entire stack, from low-level system drivers to browser extensions. I strive for lean, high-performance code not for the sake of the metrics, but to ensure the final product feels immediate, fluid, and effortless to use. There's a certain high in coming up with clean and simple solutions that make users smile.
 
-| [![Email](https://img.shields.io/badge/Email%20Address-jeremy.bankes@gmail.com-EA4335)](mailto:jeremy.bankes@gmail.com) | [![Facebook](https://img.shields.io/badge/Facebook-jeremyabankes-1877F2)](https://www.facebook.com/jeremyabankes) | [![Instagram](https://img.shields.io/badge/Instagram-jeremy.bankes-E4405F)](https://www.instagram.com/jeremy.bankes/) |
-|-|-|-|
+| [![Email](https://img.shields.io/badge/Email%20Address-jeremy.bankes@gmail.com-EA4335)](mailto:jeremy.bankes@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeremybankes-0A66C2)](https://www.linkedin.com/in/jeremybankes/) | [![Facebook](https://img.shields.io/badge/Facebook-jeremyabankes-1877F2)](https://www.facebook.com/jeremyabankes) | [![Instagram](https://img.shields.io/badge/Instagram-jeremy.bankes-E4405F)](https://www.instagram.com/jeremy.bankes/) |
+|-|-|-|-|
