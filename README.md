@@ -1,9 +1,9 @@
 [VisitButton]: https://img.shields.io/badge/Visit_My_Website-1f6feb
-[DownloadResumeButton]: https://img.shields.io/badge/Download_My_Resume-1f6feb
+[DownloadResumeButton]: https://img.shields.io/badge/View_My_Resume-1f6feb
 ## Introduction
 Hello! I'm Jeremy. I'm a __Software Developer__ at [Ultra Maritime](https://umaritime.com/) in Nova Scotia, Canada.
 
-[![VisitButton]](https://jeremybankes.com) [![DownloadResumeButton]](https://docs.google.com/document/u/0/export?format=pdf&id=1MsFkcQnmi08Wjov05XJmGoT9L7TBmokYB9ybh-9CjDY)
+[![VisitButton]](https://jeremybankes.com) [![DownloadResumeButton]](https://resume.jeremybankes.com)
 
 I build software across the entire stack, from low-level system drivers to browser extensions. I strive for lean, high-performance code not for the sake of the metrics, but to ensure the final product feels immediate, fluid, and effortless to use. There's a certain high in coming up with clean and simple solutions that make users smile.
 
