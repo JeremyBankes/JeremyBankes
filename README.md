@@ -1,7 +1,7 @@
 [VisitButton]: https://img.shields.io/badge/Visit_My_Website-1f6feb
 [DownloadResumeButton]: https://img.shields.io/badge/View_My_Resume-1f6feb
 ## Introduction
-Hello! I'm Jeremy. I'm a __Software Developer__ at [Ultra Maritime](https://umaritime.com/) in Nova Scotia, Canada.
+Hello! I'm Jeremy. I'm a __Software Developer__ at [Lockheed Martin (Formerly Ultra Maritime)](https://umaritime.com/) in Nova Scotia, Canada.
 
 [![VisitButton]](https://jeremybankes.com) [![DownloadResumeButton]](https://resume.jeremybankes.com)
 
